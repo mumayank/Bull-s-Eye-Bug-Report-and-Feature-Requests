@@ -1,7 +1,7 @@
 # Bull's Eye: Bug Report & Feature Requests
 
 How to report:
-- Go to "issue" tab
+- Go to "issues" tab
 - Search from the list if:
   - the bug is already reported, or
   - the feature is already under development
